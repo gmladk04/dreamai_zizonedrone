@@ -36,7 +36,7 @@ opencv 기반 웹캠(내장/외장) 연속촬영 코드
 10. zi존드론파 회의	@2020년 11월 18일	
 11. 드론파 드론 날리기	@2020년 11월 19일
 ---
-##⭐Intel NUC에서 jupyter notebook 실행하기⭐
+## ⭐Intel NUC에서 jupyter notebook 실행하기⭐
 1. 전원 켜서 비밀번호 `1234`
 2. 와이파이 잘 연결 됐는지 확인
 3. `ctl+alt+t` : 터미널 창 켜기
@@ -48,7 +48,7 @@ opencv 기반 웹캠(내장/외장) 연속촬영 코드
 ### 구글 드라이브 링크: [꿈꾸는 ai dataset](https://drive.google.com/drive/u/0/folders/1hxpAGKJiZOvKl_rldWySJR5TYUrBb_5p)
 사용여부|classname|count|in charge|
 :---:|:---:|---:|:---:|
-Yes|airplane|5441||Jaeyoung Lee|
+Yes|airplane|5441|Jaeyoung Lee|
 Yes|car|8653|Jaeyoung Lee|
 Yes|boat|2959|Jaeyoung Lee|
 Yes|bottle|4931|Jaeyoung Lee|
