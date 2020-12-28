@@ -6,8 +6,16 @@
 
 ## Introduction
 2020 DREAM_AI Drone Competition 프로젝트 (2020/10/26 ~ 2020/12/5)
+#### Lecture001-데이터모으기.ipynb
+이미지 데이터 수집
 #### Lecture002-이미지분류&모델트레이닝.ipynb
 이미지분류 & 모델 트레이닝 코드
+#### Lecture003-파일변환과 테스트.ipynb
+학습한 model을 드론에 적용하기 위한 파일변환 코드
+#### Lecture004-실시간 추론하기.ipynb
+학습한 model 적용하여 INTEL NUC의 카메라에서 추론하기
+#### Lecture005-드론으로 추론하기
+학습한 model을 드론에 적용하여 객체 인식
 #### imageNet.py
 ImageNet(http://www.image-net.org/) 이미지 소스 얻기
 #### webCrawling.py
